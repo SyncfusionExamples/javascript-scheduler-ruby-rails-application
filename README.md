@@ -22,7 +22,7 @@ gem install rails
 Refer the following UG documenation for adding Syncfusion React component in your application
 * [Getting Started of Syncfusion Javascript Scheduler component](https://ej2.syncfusion.com/javascript/documentation/schedule/getting-started)
 
-## Run the GraphQL Server
+## Run the project
 
 ```
 yarn install

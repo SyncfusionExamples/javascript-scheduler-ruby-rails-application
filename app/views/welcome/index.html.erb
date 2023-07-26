@@ -1,0 +1,23 @@
+<section>
+    <script src="https://cdn.syncfusion.com/ej2/22.1.38/dist/ej2.min.js" type="text/javascript"></script>
+    <link href="https://cdn.syncfusion.com/ej2/22.1.38/material.css" rel="stylesheet">
+</section>
+<section>
+    <div id="Schedule"></div>
+    <script>
+        var scheduleObj = new ej.schedule.Schedule({
+            height: '550px',
+            width: '100%',
+            selectedDate: new Date(2023, 6, 13),
+            eventSettings: {
+                dataSource: [{
+                    id: 1,
+                    subject: 'Meeting',
+                    startTime: new Date(2023, 6, 13, 10, 0),
+                    endTime: new Date(2023, 6, 13, 12, 30)
+                }]
+            }       
+        });
+        scheduleObj.appendTo('#Schedule');
+    </script>
+</section>

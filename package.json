@@ -2,7 +2,7 @@
   "dependencies": {
     "@rails/webpacker": "5.4.4",
     "@syncfusion/ej2-schedule": "^22.1.38",
-    "webpack": "4.46.0",
+    "webpack": "5.94.0",
     "webpack-cli": "3.3.12"
   },
   "devDependencies": {

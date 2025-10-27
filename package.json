@@ -1,4 +1,4 @@
-
+{
 "dependencies": {
   "@rails/webpacker": "5.4.4",
   "@syncfusion/ej2-schedule": "^22.1.38",
@@ -7,4 +7,5 @@
 },
 "devDependencies": {
   "webpack-dev-server": "^5.2.1"
-}
+  }
+}  

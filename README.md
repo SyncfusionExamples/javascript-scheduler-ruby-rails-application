@@ -1,6 +1,6 @@
 # javascript-scheduler-ruby-rails-application
 
-This repository provides a sample integration of the Syncfusion JavaScript Scheduler component within a Ruby on Rails application using React.
+This repository provides a sample integration of the Syncfusion JavaScript Scheduler component within a Ruby on Rails application.
 
 ## Prerequisites
 
@@ -25,7 +25,7 @@ gem install rails
 
 ## Add Syncfusion Scheduler component in your application
 
-Refer to the following UG documenation for adding Syncfusion React component in your application
+Refer to the following UG documenation for adding Syncfusion Javascript component in your application
 * [Getting Started of Syncfusion Javascript Scheduler component](https://ej2.syncfusion.com/javascript/documentation/schedule/getting-started)
 
 ## Run the project

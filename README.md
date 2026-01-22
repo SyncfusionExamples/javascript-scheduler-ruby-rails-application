@@ -60,8 +60,12 @@ This repository contains a sample full-stack application demonstrating how to di
 
 
 ## Output
-![Frontend Preview](./Output.png)
+![Frontend Preview](./output.png)
 
 ## Troubleshooting
 - **Version error**: Check and install the current version as by prerequistes.
 - **Port already in use**: Clear all the previous running applications in both browser and command prompt.
+
+## Liscense
+**License banner**: Obtain and register a Syncfusion license key [link](https://ej2.syncfusion.com/angular/documentation/licensing/overview).
+ 

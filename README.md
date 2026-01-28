@@ -60,7 +60,7 @@ This repository contains a sample full-stack application demonstrating how to di
 
 
 ## Output
-![Frontend Preview](./output.png)
+![Frontend Preview](./Output/output.png)
 
 ## Troubleshooting
 - **Version error**: Check and install the current version as by prerequistes.
